@@ -4,7 +4,8 @@ body{
 }
 
 marquee{
-color: blue;
+color: rgb(240, 47, 231);
+font-size: 25px;
 }
 
 #left-container {
